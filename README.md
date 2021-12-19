@@ -112,9 +112,6 @@ Execute the program
 	</table>
 </body>
 </html>
-
-</html>
-
 ~~~
 # OUPUT
 ![SEC](exp2.png)
